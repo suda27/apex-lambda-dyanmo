@@ -1,0 +1,9 @@
+{
+  "name": "read-dynamo",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::699730620999:role/first-apex-project_lambda_function",
+  "environment": {},
+  "runtime": "nodejs10.x"
+}

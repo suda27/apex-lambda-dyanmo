@@ -21,4 +21,4 @@ Install APEX from www.apex.run
  5 . Also create a role for the user same as mentioned above.
  
  # how to deploy? 
-use the command "aws deploy" on terminal.
+use the command "apex deploy" on terminal.
